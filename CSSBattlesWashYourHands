@@ -1,0 +1,26 @@
+<div></div>
+<style>
+  body{
+    background: #293462;
+    display: flex;
+    justify-content: center;
+  }
+  div {
+width:200px;
+height:100px;
+background:#dd6b4d;
+margin-top:82px;
+background:#FE5F55;
+border-radius:20px;
+box-shadow:0 20px #A64942;   
+  }
+  div::before{
+    content: "";
+    position: absolute;
+    height: 40px;
+    width: 140px;
+    background: #A64942;
+    margin-top: 30px;
+    margin-left: 30px;
+    border-radius: 25px;
+  }
