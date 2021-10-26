@@ -1,0 +1,71 @@
+<p a><p b><p c><p d><p e><p f><p g>
+<style>
+  body{
+    background: #191919;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  p[a] {
+    width: 30px;
+    height: 20px;
+    position: absolute;
+    top: 50px;
+    border: 10px solid #5DBCF9;
+    border-bottom: none;
+  }
+  p[b] {
+    width: 80px;
+    height: 50px;
+    position: absolute;
+    top: 80px;
+    border: 10px solid #5DBCF9;
+    border-bottom: none;
+  }
+ p[c] {
+    width: 80px;
+    height: 30px;
+    position: absolute;
+    top: 130px;
+    left: 128px;
+    border: 10px solid #5DBCF9;
+    border-bottom: none;
+    border-right: none;
+    transform: rotate(-30deg);
+  }
+  p[d] {
+    width: 80px;
+    height: 30px;
+    position: absolute;
+    top: 130px;
+    left: 185px;
+    border: 10px solid #5DBCF9;
+    border-bottom: none;
+    border-left: none;
+    transform: rotate(30deg);
+  }
+ p[e] {
+    width: 10px;
+    height: 60px;
+    position: absolute;
+    top: 119px;
+    left: 196px;
+	background: #5DBCF9;
+  }
+  p[f]{
+	width: 10px;
+    height: 200px;
+    position: absolute;
+    top: 83px;
+	background: #5DBCF9;
+    transform: rotate(90deg);
+    border: 10px solid #191919;    
+  }
+  p[g]{
+	width: 10px;
+    height: 110px;
+    position: absolute;
+    top: 158px;
+	background: #5DBCF9;
+    transform: rotate(90deg);   
+  }
