@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Ryan-Giant-Peach (Ryan Caulfield)
-- 👀 I’m interested in C#, JavaScript, CSS and React
-- 🌱 I’m currently learning all of the above!
-- 💞️ I’m looking to collaborate on game projects primarily and anything that's creative
+- 👀 I’m interested in C#, JavaScript, TypeScript and React
 - 📫 How to reach me... Ryancaulfield3103@gmail.com
 
 <!---
